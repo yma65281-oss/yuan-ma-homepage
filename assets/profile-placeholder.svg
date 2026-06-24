@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder</title>
+  <desc id="desc">A quiet academic-style portrait placeholder with initials.</desc>
+  <rect width="640" height="800" fill="#e8e3d7"/>
+  <rect x="46" y="46" width="548" height="708" fill="#f6f4ee" stroke="#cfc8b8" stroke-width="3"/>
+  <circle cx="320" cy="275" r="112" fill="#b8c8ce"/>
+  <path d="M152 690c19-130 83-204 168-204s149 74 168 204" fill="#304f5b"/>
+  <text x="320" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="92" fill="#ffffff">YN</text>
+  <path d="M118 118h404" stroke="#8b2f2f" stroke-width="8"/>
+  <path d="M118 144h270" stroke="#1d5d6f" stroke-width="5"/>
+</svg>

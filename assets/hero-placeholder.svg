@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract academic hero image</title>
+  <desc id="desc">A muted painterly portrait-inspired banner for an academic homepage.</desc>
+  <rect width="1800" height="560" fill="#1e3358"/>
+  <path d="M0 56c235-80 384-72 566 6 155 67 296 69 444 6 181-77 354-82 571-7 101 35 171 48 219 48v451H0Z" fill="#253f6b"/>
+  <ellipse cx="902" cy="180" rx="375" ry="240" fill="#8b756c" opacity=".62"/>
+  <ellipse cx="885" cy="122" rx="208" ry="142" fill="#b99887" opacity=".48"/>
+  <path d="M690 0c53 157 83 255 89 294 7 41 36 71 85 90 57 22 117 15 166-17 47-32 73-79 77-142 4-54 42-129 115-225Z" fill="#d9b29e" opacity=".55"/>
+  <ellipse cx="812" cy="178" rx="34" ry="18" fill="#f0ddd3" opacity=".55"/>
+  <ellipse cx="1010" cy="176" rx="34" ry="18" fill="#f0ddd3" opacity=".55"/>
+  <path d="M760 289c94 55 202 58 305 5" fill="none" stroke="#6e4f50" stroke-width="9" opacity=".48"/>
+  <path d="M0 0h1800v560H0z" fill="#102243" opacity=".18"/>
+</svg>
